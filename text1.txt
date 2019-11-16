@@ -1,2 +1,2 @@
 This is my text file in local 
-
+This is the text file on my remote
